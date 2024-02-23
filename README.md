@@ -30,4 +30,4 @@ URL: https://youtu.be/UGOo6ub1QF8
 
 Demo Video: Demonstration of Convolutional Neural Networks
 Description: Demonstration of Convolutional Neural Networks and its application for pest control
-URL: https://youtu.be/pW_al2VWw0A
+URL: https://youtu.be/5kyLgcEeMPE
