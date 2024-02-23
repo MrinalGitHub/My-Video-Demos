@@ -27,3 +27,7 @@ URL: https://youtu.be/jvLaVelGMhI
 Demo Video: Demonstration of Campaign Management Bot
 Description: Demonstration of how marketing campaigns are proposed to be managed at Cisco with the integration of inhouse tools and data-sources. 
 URL: https://youtu.be/UGOo6ub1QF8
+
+Demo Video: Demonstration of Convolutional Neural Networks
+Description: Demonstration of Convolutional Neural Networks and its application for pest control
+URL: https://youtu.be/pW_al2VWw0A
