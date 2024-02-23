@@ -23,3 +23,7 @@ URL: https://youtu.be/4b78DnGG8fI
 Demo Video: Demonstration of Operations-Bot (Opti-Bot)
 Description: The Operational-Bot is a lever for the enterprise to automate most of the operational tasks of employees. Tasks like - Generating Payslips, Incidence creation for IT tasks etc can be easily accomplished. Also, with Gen-AI integration, we can enable employee query resolution from enterprise-policy documentation of HR, Admin, RE&F and other departments. 
 URL: https://youtu.be/jvLaVelGMhI
+
+Demo Video: Demonstration of Campaign Management Bot
+Description: Demonstration of how marketing campaigns are proposed to be managed at Cisco with the integration of inhouse tools and data-sources. 
+URL: https://youtu.be/UGOo6ub1QF8
